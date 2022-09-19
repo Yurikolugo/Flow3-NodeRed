@@ -46,7 +46,9 @@ Para observar el resutlado de este flow, abre un navegador y dirígete a localho
 ## Resultados
 
 A continuación puedes ver los nodos del flow.
-![](https://github.com/hugoescalpelo/Flow3-NodeRed/blob/main/Nodos%20flow3.png?raw=true)
+![](https://github.com/Yurikolugo/Flow3-NodeRed/blob/main/flow3.png)
+![](https://github.com/Yurikolugo/Flow3-NodeRed/blob/main/flo3.1.png)
+
 
 A continuación puede ver el tablero resultante.
 
